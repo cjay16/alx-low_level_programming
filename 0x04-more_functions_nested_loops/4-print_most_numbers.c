@@ -1,29 +1,21 @@
 #include "main.h"
 
-
-
 /**
- *print_numbers - prints numbers 0-9
+ *print_most_numbers - a function that prints the numbers
  */
 
-
-
-void print_numbers(void)
+void print_most_numbers(void)
 
 {
 
-	int c;
+	@@ -15,4 +14,4 @@ if (i != '2' && i !='4')
+
+		_putchar(i);
+
+}
+
+_putchar('\n');
 
 
-
-	for (c = '0'; c <= '9'; c++)
-
-	{
-
-		_putchar(c);
-
-	}
-
-	_putchar('\n');
 
 }
