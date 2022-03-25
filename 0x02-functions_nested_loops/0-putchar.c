@@ -1,20 +1,11 @@
-#include "holberton.h"
+#include "main.h"
 
 
 
 /**
- *
- *  * main - prints Holberton
- *
- *   *
- *
- *    * Description: prints Holberton
- *
- *     *
- *
- *      * Return: 0 (Success)
- *
- *       */
+ *main - prints
+ *Return: 0 (Success)
+ */
 
 
 
